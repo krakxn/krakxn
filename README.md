@@ -1,4 +1,4 @@
-<h1 align="center";>Hey there! Have a wonderful day! <3</h1>
+<h1 align="center";>Hey there! Have a wonderful day! ❤</h1>
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krakxn&label=Profile%20views&color=0096FF&style=for-the-badge" alt="krakxn" /> </p>
