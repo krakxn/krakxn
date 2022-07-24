@@ -29,7 +29,7 @@
 -->
 
 <!-- Top languages: -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=compact&theme=algolia" alt="krakxn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=compact&theme=algolia&langs_count=6" alt="krakxn" /></p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
