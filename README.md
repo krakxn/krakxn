@@ -13,12 +13,11 @@
 </p>
 
 <!-- Dynamic lines/Subtitle: -->
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=031C80&center=true&vCenter=false&width=400&height=50&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
--->
+
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Is...+curious.+Intuitive.+Stoic.+Passionate.;Obsessed+with...+space.+Cryptography.+ZK-proofs.;Likes...reading.+Music.+Gaming.&font=Roboto&color=050505&background=ffffff&duration=3750&center=true&size=30&width=800&height=100"></p>
 
 <!-- Trophies: --> <!-- NOTE: As this is only limited to a single row, one trophy card is missing -->
-<h3 align="center">Trophies 🥳✨</h3>
+<h2 align="center">Trophies 🥳✨</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krakxn&theme=oldie&row=1&margin-w=5" alt="krakxn" /></a> </p>
 
