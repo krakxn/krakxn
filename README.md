@@ -1,4 +1,5 @@
-<h1 align="center";>Hey you! Have a wonderful day! <3 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<img src="https://github.com/krakxn/krakxn/blob/main/cover.png" alt="Hey you! Have a wonderful day! <3">
+<!-- <h1 align="center";>Hey you! Have a wonderful day! <3 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1> -->
 
 <!-- Views counter: -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krakxn&label=Profile%20views&color=000205&style=for-the-badge" alt="krakxn" /> </p>
