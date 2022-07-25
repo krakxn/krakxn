@@ -1,5 +1,5 @@
 <!-- Animation: -->
-<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="" /></p>
 
 <img src="https://github.com/krakxn/krakxn/blob/main/cover.png" alt="Hey you! Have a wonderful day! <3">
 <!-- <h1 align="center";>Hey you! Have a wonderful day! <3 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1> -->
@@ -52,7 +52,7 @@
 <!-- Profile stats: -->
 <h2 align="center">Stats 🖥️💯</h2>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krakxn&show_icons=true&locale=en&theme=swift&include_all_commits=true" alt="krakxn" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krakxn&show_icons=true&locale=en&theme=swift&icon_color=050505" alt="krakxn" /></p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
