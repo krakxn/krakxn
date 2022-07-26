@@ -73,6 +73,7 @@
 
 <!-- Contributions activity graph: -->
 <h2 align="center">Activity Graph ⚡</h2>
+<h5 align="center">Server down! ⚠️</h5>
 
 [![AN's GitHub Activity Graph](https://krakxn-activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
