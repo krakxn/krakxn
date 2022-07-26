@@ -112,7 +112,7 @@
 <h2 align="center">Quotes 📝</h2>
 
 <!-- Quotes card: -->
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&layout=samuel&font=default?quoteCategory=motivational)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&layout=samuel&font=default&quoteCategory=motivational)
 
 <!-- Animation: -->
 <p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" /></p>
