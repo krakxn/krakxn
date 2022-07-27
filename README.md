@@ -91,6 +91,7 @@
 <!-- Contributions activity graph: -->
 <h2 align="center">Activity Graph ⚡</h2>
 <!-- <h5 align="center">Server down! ⚠️</h5> -->
+<h5 align="center">Past 31 days</h5> 
 
 [![AN's GitHub Activity Graph](https://krakxn-activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -130,12 +131,17 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 
 
-<!-- Quotes card: -->
+<!-- 1. Quotes card: -->
 <!--
 <h2 align="center">Quotes 📝</h2>
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&layout=samuel&font=default&quoteCategory=programming)
 -->
+
+<!-- 2. Quotes card: -->
+<h2 align="center">Quotes 📝</h2>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 <!-- Animation: -->
