@@ -3,12 +3,12 @@
 
 
 <!-- Views counter: -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=krakxn&label=Profile%20views&color=000205&style=for-the-badge" alt="krakxn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krakxn&label=Profile%20views&color=000205&style=for-the-badge" alt="krakxn's Views" /> </p>
 
 
 <!-- Follow me on GitHub: -->
 <p align="center">
-<a href="https://github.com/krakxn?tab=followers"><img alt="followers" title="Follow me on GitHub!" src="https://custom-icon-badges.herokuapp.com/github/followers/krakxn?color=000205&labelColor=000205&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/krakxn?tab=followers"><img alt="krakxn's Followers" title="Follow me on GitHub!" src="https://custom-icon-badges.herokuapp.com/github/followers/krakxn?color=000205&labelColor=000205&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 
@@ -20,7 +20,7 @@
 <!-- Trophies: --> <!-- NOTE: As this is only limited to a single row, one trophy card is missing -->
 <h2 align="center">Trophies 🥳✨</h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krakxn&theme=oldie&row=1&margin-w=5" alt="krakxn" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krakxn&theme=oldie&row=1&margin-w=5" alt="krakxn's Trophies" /></a> </p>
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:black">
@@ -48,7 +48,7 @@
 <!-- Streak stats: -->
 <h2 align="center">Streaks 🔥</h2>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krakxn&theme=graywhite" alt="krakxn" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krakxn&theme=graywhite" alt="krakxn's Streaks" /></p>
 
 
 <hr style="width:50%;text-align:left;margin-left:0">
@@ -58,7 +58,7 @@
 <h2 align="center">Stats 🖥️💯</h2>
 <h5 align="center">Jun 27 - Present</h5>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krakxn&show_icons=true&locale=en&theme=swift&icon_color=050505" alt="krakxn" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krakxn&show_icons=true&locale=en&theme=swift&icon_color=050505" alt="krakxn's Stats" /></p>
 
 
 <hr style="width:50%;text-align:left;margin-left:0">
@@ -73,7 +73,7 @@
 <!-- Top languages: -->
 <h5 align="center">Public repositories</h5>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="krakxn" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="krakxn's Top Languages" /></p>
 
 
 <hr style="width:50%;text-align:left;margin-left:0">
@@ -82,7 +82,7 @@
 <!-- Jokes card: -->
 <h2 align="center">Jokes 🙈</h2>
 
-<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" alt="Jokes Card" /></p>
+<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" alt="krakxn's Jokes Card" /></p>
 
 
 <hr style="width:50%;text-align:left;margin-left:0">
@@ -145,4 +145,4 @@
 
 
 <!-- Animation: -->
-<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation" /></p>
