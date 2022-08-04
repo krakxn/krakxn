@@ -14,7 +14,7 @@
 
 <!-- Dynamic lines/Subtitle: -->
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Is...+curious.+Intuitive.+Stoic.+Passionate.;Obsessed+with...+space.+Cryptography.+ZK-proofs.;Likes...reading.+Music.+Gaming.&font=Roboto&color=050505&background=ffffff&duration=3750&center=true&size=30&width=800&height=100"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Is...+curious.+Stoic.+Passionate.;Obsessed+with...+space.+Cryptography.+ZK-proofs.;Likes...reading.+Music.+Gaming.&font=Roboto&color=050505&background=ffffff&duration=3750&center=true&size=30&width=800&height=100"></p>
 
 
 <!-- Trophies: --> <!-- NOTE: As this is only limited to a single row, one trophy card is missing -->
