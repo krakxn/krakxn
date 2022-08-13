@@ -124,7 +124,7 @@
 
 <!-- Spotify (Now playing): -->
 <h2 align="center">Playing Now 🎶</h2>
-<h6 align="center">In my pop arc—been years!</h6>
+<h6 align="center">In my pop arc, been years!</h6>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gon44oozlgu62nit3rf352sbyu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)  
 
