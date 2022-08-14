@@ -71,7 +71,7 @@
 
 
 <!-- Top languages: -->
-<h6 align="center">Public repositories</h6>
+<h5 align="center">Public repositories</h5>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="krakxn's Top Languages" /></p>
 
@@ -91,7 +91,7 @@
 <!-- Contributions activity graph: -->
 <h2 align="center">Activity Graph ⚡</h2>
 <!-- <h5 align="center">Server down! ⚠️</h5> -->
-<h6 align="center">Past 31 days</h6> 
+<h5 align="center">Past 31 days</h5> 
 
 [![AN's GitHub Activity Graph](https://krakxn-activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -124,7 +124,7 @@
 
 <!-- Spotify (Now playing): -->
 <h2 align="center">Playing Now 🎶</h2>
-<h6 align="center">In my pop arc, been years!</h6>
+<h5 align="center">In my pop arc, been years!</h5>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gon44oozlgu62nit3rf352sbyu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)  
 
