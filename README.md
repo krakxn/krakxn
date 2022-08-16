@@ -92,7 +92,9 @@
 <h2 align="center">Activity Graph ⚡</h2>
 
 <!-- <h5 align="center">Server down! ⚠️</h5> -->
-<h5 align="center">Past 31 days | Uh oh.. a rugpull!</h5> 
+<h5 align="center">Past 31 days</h5>
+<h6 align="center"><i>Uh oh.. a rugpull!</i></h6>
+
 
 [![AN's GitHub Activity Graph](https://krakxn-activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
