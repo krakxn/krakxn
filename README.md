@@ -98,6 +98,7 @@
 
 [![AN's GitHub Activity Graph](https://krakxn-activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![AN's github activity graph](https://activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr style="width:50%;text-align:left;margin-left:0">
  
