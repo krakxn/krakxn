@@ -55,7 +55,7 @@
 
 
 <!-- Profile stats: -->
-<h2 align="center">Stats 🖥️💯</h2>
+<h2 align="center">Stats 🖥️</h2>
 <h4 align="center">Jun 27 - Present</h4>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krakxn&show_icons=true&locale=en&theme=swift&icon_color=050505" alt="krakxn's Stats" /></p>
