@@ -80,8 +80,8 @@
 
 
 <!-- Jokes card: -->
-<h2 align="center"> Jokes 🙈</h2>
-<h5 align="center"> Not-so-corny (ah yes.. coping)</h5>
+<h2 align="center">Not-so-corny jokes 🙈</h2>
+<h5 align="center">*ah yes.. coping*</h5>
 
 <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" alt="krakxn's Jokes Card" /></p>
 
@@ -94,7 +94,7 @@
 
 <!-- <h5 align="center">Server down! ⚠️</h5> -->
 <h5 align="center">Past 31 days</h5>
-<h5 align="center"><i>Uh oh.. a rugpull!</i></h5>
+<h5 align="center">*uh oh.. a rugpull!*</h5>
 
 
 <!-- Personal Activity Graph -->
