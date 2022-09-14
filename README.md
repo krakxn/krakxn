@@ -149,7 +149,8 @@
 -->
 
 <!-- 2. Quotes card: -->
-<h2 align="center">Quotes 📝</h2>
+<h2 align="center">Not-so-corny quotes 📝</h2>
+<h5 align="center">*"again?" sorry.. :(*</h5>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
