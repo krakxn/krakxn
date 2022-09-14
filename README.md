@@ -56,7 +56,7 @@
 
 <!-- Profile stats: -->
 <h2 align="center">Stats 🖥️💯</h2>
-<h5 align="center">Jun 27 - Present</h5>
+<h4 align="center">Jun 27 - Present</h4>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krakxn&show_icons=true&locale=en&theme=swift&icon_color=050505" alt="krakxn's Stats" /></p>
 
@@ -71,7 +71,7 @@
 
 
 <!-- Top languages: -->
-<h5 align="center">Public repositories</h5>
+<h4 align="center">Public repositories</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="krakxn's Top Languages" /></p>
 
@@ -81,7 +81,7 @@
 
 <!-- Jokes card: -->
 <h2 align="center">Not-so-corny jokes 🙈</h2>
-<h5 align="center">*ah yes.. coping*</h5>
+<h6 align="center">ah yes.. coping</h6>
 
 <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" alt="krakxn's Jokes Card" /></p>
 
@@ -93,8 +93,8 @@
 <h2 align="center">Activity Graph ⚡</h2>
 
 <!-- <h5 align="center">Server down! ⚠️</h5> -->
-<h5 align="center">Past 31 days</h5>
-<h5 align="center">*uh oh.. a rugpull!*</h5>
+<h4 align="center">Past 31 days</h4>
+<h6 align="center">uh oh.. a rugpull!</h6>
 
 
 <!-- Personal Activity Graph -->
@@ -133,7 +133,7 @@
 
 <!-- Spotify (Now playing): -->
 <h2 align="center">Currently playing 🎶</h2>
-<h5 align="center">*almost always hh/piano :c*</h5>
+<h6 align="center">almost always hh/piano :c</h6>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gon44oozlgu62nit3rf352sbyu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)  
 
@@ -150,7 +150,7 @@
 
 <!-- 2. Quotes card: -->
 <h2 align="center">Not-so-corny quotes 📝</h2>
-<h5 align="center">*"again?" sorry.. :(*</h5>
+<h6 align="center">"again?" sorry.. :(</h6>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
