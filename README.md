@@ -18,7 +18,7 @@
 
 
 <!-- Trophies: --> <!-- NOTE: As this is only limited to a single row, one trophy card is missing -->
-<h2 align="center">Trophies 🥳✨</h2>
+<h2 align="center">Trophies ✨</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krakxn&theme=oldie&row=1&margin-w=5" alt="krakxn's Trophies" /></a> </p>
 
