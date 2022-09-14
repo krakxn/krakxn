@@ -56,7 +56,7 @@
 
 <!-- Profile stats: -->
 <h2 align="center">Stats 🖥️</h2>
-<h4 align="center">Jun 27 - Present</h4>
+<h3 align="center">Jun 27 - Present</h4>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krakxn&show_icons=true&locale=en&theme=swift&icon_color=050505" alt="krakxn's Stats" /></p>
 
@@ -71,19 +71,9 @@
 
 
 <!-- Top languages: -->
-<h4 align="center">Public repositories</h4>
+<h3 align="center">Public repositories</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="krakxn's Top Languages" /></p>
-
-
-<hr style="width:50%;text-align:left;margin-left:0">
-
-
-<!-- Jokes card: -->
-<h2 align="center">Not-so-corny jokes 🙈</h2>
-<h6 align="center">ah yes.. coping</h6>
-
-<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" alt="krakxn's Jokes Card" /></p>
 
 
 <hr style="width:50%;text-align:left;margin-left:0">
@@ -93,7 +83,7 @@
 <h2 align="center">Activity Graph ⚡</h2>
 
 <!-- <h5 align="center">Server down! ⚠️</h5> -->
-<h4 align="center">Past 31 days</h4>
+<h3 align="center">Past 31 days</h4>
 <h6 align="center">uh oh.. a rugpull!</h6>
 
 
@@ -130,6 +120,15 @@
 <!--
 <a href="#macropower-title"><img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" /></a>
 -->
+
+<!-- Jokes card: -->
+<h2 align="center">Not-so-corny jokes 🙈</h2>
+<h6 align="center">ah yes.. coping</h6>
+
+<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" alt="krakxn's Jokes Card" /></p>
+
+
+<hr style="width:50%;text-align:left;margin-left:0">
 
 <!-- Spotify (Now playing): -->
 <h2 align="center">Currently playing 🎶</h2>
