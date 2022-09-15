@@ -71,7 +71,8 @@
 
 
 <!-- Top languages: -->
-<h3 align="center">Public repositories</h4>
+<h3 align="center">Public repositories</h3>
+<h6 align="center">currently erroneous</h6>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="krakxn's Top Languages" /></p>
 
@@ -83,7 +84,7 @@
 <h2 align="center">Activity Graph ⚡</h2>
 
 <!-- <h5 align="center">Server down! ⚠️</h5> -->
-<h3 align="center">Past 31 days</h4>
+<h3 align="center">Past 31 days</h3>
 <h6 align="center">uh oh.. a rugpull!</h6>
 
 
