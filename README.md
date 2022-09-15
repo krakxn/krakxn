@@ -46,7 +46,7 @@
 -->
 
 <!-- Streak stats: -->
-<h2 align="center">Streaks 🔥</h2>
+<h2 align="center">Streak 🔥</h2>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krakxn&theme=graywhite" alt="krakxn's Streaks" /></p>
 
