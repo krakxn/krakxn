@@ -121,19 +121,19 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 
 
-<!-- 1. Quotes card: -->
-<!--
-<h2 align="center">Quotes 📝</h2>
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&layout=samuel&font=default&quoteCategory=programming)
--->
-
-<!-- 2. Quotes card: -->
+<!-- Quotes card: -->
 <h2 align="center">Not-so-corny quotes 📝</h2>
 <h6 align="center">▸ "again?" sorry.. :(</h6>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- 1: Non-customizable -->
 
+<!-- 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+-->
+
+<!-- 2: Customizable-->
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&layout=samuel&font=Redressed&quoteCategory=life)
 
 <!-- Animation: -->
 <p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation" /></p>
