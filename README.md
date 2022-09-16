@@ -53,7 +53,7 @@
 
 <!-- Top languages: -->
 <h3 align="center">Public repositories</h3>
-<h6 align="center">▸ currently erroneous</h6>
+<h6 align="center">▸ currently erroneous (swayed by the lack of variance in public repos.)</h6>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="krakxn's Top Languages" /></p>
 
