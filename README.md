@@ -17,7 +17,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Is...+curious.+Stoic.+Passionate.;Obsessed+with...+space.+Cryptography.+ZK-proofs.;Likes...reading.+Gaming.+Music.&font=Roboto&color=050505&background=ffffff&duration=3750&center=true&size=30&width=800&height=100"></p>
 
 
-<!-- Trophies: --> <!-- NOTE: As this is only limited to a single row, one trophy card is missing -->
+<!-- Trophies: --> 
 <h2 align="center">Trophies ✨</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krakxn&theme=oldie&row=1&margin-w=5" alt="krakxn's Trophies" /></a> </p>
@@ -25,25 +25,6 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:black">
 
-
-<!-- Intro: -->
-<!-- 
-- 🔭 I’m currently working on [xyz](xyz)
-
-- 🌱 I’m currently learning **xyz**
-
-- 👯 I’m looking to collaborate on [xyz](xyz)
-
-- 🤝 I’m looking for help with [xyz](xyz)
-
-- 👨‍💻 All of my projects are available at [XYZ](XYZ)
-
-- 💬 Ask me about **xyz**
-
-- 📫 How to reach me **xyz**
-
-- ⚡ Fun fact **xyz** 
--->
 
 <!-- Streak stats: -->
 <h2 align="center">Streak 🔥</h2>
@@ -72,7 +53,7 @@
 
 <!-- Top languages: -->
 <h3 align="center">Public repositories</h3>
-<h6 align="center">currently erroneous</h6>
+<h6 align="center">▸ currently erroneous</h6>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="krakxn's Top Languages" /></p>
 
@@ -83,9 +64,8 @@
 <!-- Contributions activity graph: -->
 <h2 align="center">Activity Graph ⚡</h2>
 
-<!-- <h5 align="center">Server down! ⚠️</h5> -->
 <h3 align="center">Past 31 days</h3>
-<h6 align="center">uh oh.. a rugpull!</h6>
+<h6 align="center">▸ uh oh.. a rugpull!</h6>
 
 
 <!-- Personal Activity Graph -->
@@ -124,7 +104,7 @@
 
 <!-- Jokes card: -->
 <h2 align="center">Not-so-corny jokes 🙈</h2>
-<h6 align="center">ah yes.. coping</h6>
+<h6 align="center">▸ ah yes.. coping</h6>
 
 <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" alt="krakxn's Jokes Card" /></p>
 
@@ -133,7 +113,7 @@
 
 <!-- Spotify (Now playing): -->
 <h2 align="center">Currently playing 🎶</h2>
-<h6 align="center">generally hh/classical piano :c</h6>
+<h6 align="center">▸ generally hh or piano (classical) :c</h6>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gon44oozlgu62nit3rf352sbyu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)  
 
@@ -150,7 +130,7 @@
 
 <!-- 2. Quotes card: -->
 <h2 align="center">Not-so-corny quotes 📝</h2>
-<h6 align="center">"again?" sorry.. :(</h6>
+<h6 align="center">▸ "again?" sorry.. :(</h6>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
