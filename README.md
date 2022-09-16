@@ -14,7 +14,7 @@
 
 <!-- Dynamic lines/Subtitle: -->
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Is...+curious.+Stoic.+Passionate.;Obsessed+with...+space.+Cryptography.+ZK-proofs.;Likes...reading.+Gaming.+Music.&font=Roboto&color=050505&background=ffffff&duration=3750&center=true&size=30&width=800&height=100"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Is...+curious.+Stoic.+Passionate.;Obsessed+with...+space.+Cryptography+(ZK-proofs!).+Applied+game-theoretic+models.;Loves...reading.+Listening+to+music+(24/7!).+Gaming+(rarely+lately..).&font=Source+Sans+Pro&color=050505&background=ffffff&duration=3750&center=true&vCenter=true&size=30&width=1100&height=75"></p>
 
 
 <!-- Trophies: --> 
@@ -53,7 +53,7 @@
 
 <!-- Top languages: -->
 <h3 align="center">Public repositories</h3>
-<h6 align="center">▸ currently erroneous (swayed by the lack of variance in public repos.)</h6>
+<h6 align="center">▸ currently erroneous (due to the lack of variance in public repos.)</h6>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="krakxn's Top Languages" /></p>
 
