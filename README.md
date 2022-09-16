@@ -112,11 +112,11 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 
 <!-- Spotify (Now playing): -->
+
 <h2 align="center">Currently playing 🎶</h2>
 <h6 align="center">▸ generally hh or piano (classical) :c</h6>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gon44oozlgu62nit3rf352sbyu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)  
-
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gon44oozlgu62nit3rf352sbyu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -125,15 +125,16 @@
 <h2 align="center">Not-so-corny quotes 📝</h2>
 <h6 align="center">▸ "again?" sorry.. :(</h6>
 
-<!-- 1: Non-customizable -->
+<!-- 1: Non-customizable but center -->
 
-<!-- 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" /> </p>
+
+
+<!-- 2: Customizable but no center -->
+
+<!--
+<p align="center"> <img src="https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&layout=samuel&font=Redressed&quoteCategory=life" /> </p>
 -->
 
-<!-- 2: Customizable-->
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&layout=samuel&font=Redressed&quoteCategory=life)
-
 <!-- Animation: -->
-<p align="center"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation" /></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation" /> </p>
