@@ -139,13 +139,13 @@
 
 
 
-<!-- GitHub Stats: (Lines of code and more) -->
+<!-- Detailed GitHub Stats: (Lines of code and more) -->
 
 <!--
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/krakxn/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/krakxn/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/krakxn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/krakxn/github-stats/master/generated/overview.svg#gh-light-mode-only)
 -->
 
 
@@ -195,6 +195,13 @@
 <!--
 <p align="center"> <img src="https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&layout=samuel&font=Redressed&quoteCategory=life" /> </p>
 -->
+
+
+
+
+<!-- Snek -->
+
+![Snake animation](https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg)
 
 
 
