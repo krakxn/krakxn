@@ -204,6 +204,24 @@
 
 
 
+<!-- Snake contribution-grid Animation SVG: -->
+
+
+<!-- grid tittle -->
+<!--
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+-->
+<h2 align="center">Contribution-grid mini-game 🎮</h2>
+
+<h6 align="center">▸ snek. 🐍 | reminiscent of pac-man..</h6>
+
+<p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Animation" /> </p>
+
+<hr style="width:50%;text-align:left;margin-left:0">
+
+
+
+
 
 <!-- Quotes card: -->
 
@@ -217,30 +235,9 @@
 
 <!-- 2. Customizable but no center -->
 
-<p align="center"> <img src="https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&quoteCategory=life" /> </p>
+<p align="center"> <img src="https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&quoteCategory=life&font=Redressed" /> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
-
-
-
-
-
-<!-- Snake contribution-grid Animation SVG: -->
-
-
-<!-- grid tittle -->
-<!--
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
--->
-<h2 align="center">Contribution-grid automated game 🎮</h2>
-
-<h6 align="center">▸ snek. 🐍 | reminiscent of pac-man..</h6>
-
-<p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Animation" /> </p>
-
-<hr style="width:50%;text-align:left;margin-left:0">
-
-
 
 
 
