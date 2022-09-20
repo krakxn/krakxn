@@ -185,11 +185,13 @@
 
 <!-- Jokes card: -->
 
-<h2 align="center">Not-so-corny jokes 🙈</h2>
+<h2 align="center">Not-so-corny dev. jokes 🙈</h2>
 
 <h6 align="center">▸ ah yes.. coping</h6>
 
-<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" alt="krakxn's Jokes Card" /></p>
+<!-- Custom parameters -->
+
+<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&codeColor=%4f4e4e&textColor=%0a0100&qColor=%0a0100&aColor=%0a0100" alt="krakxn's Jokes Card" /></p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -203,15 +205,15 @@
 
 <h6 align="center">▸ "again?" sorry.. :(</h6>
 
-<!-- 1: Non-customizable but center--Themes: nord, light, dark -->
-
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" /> </p>
-
-<!-- 2: Customizable but no center -->
+<!-- 1. Non-customizable but center; Themes: nord, light, dark, graywhite??? -->
 
 <!--
-<p align="center"> <img src="https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&layout=samuel&font=Redressed&quoteCategory=life" /> </p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" /> </p>
 -->
+
+<!-- 2. Customizable but no center -->
+
+<p align="center"> <img src="https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&quoteCategory=life" /> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
