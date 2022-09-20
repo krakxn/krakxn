@@ -58,7 +58,7 @@
 
 <h2 align="center">Trophies ✨</h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krakxn&theme=oldie&row=1&margin-w=5" alt="krakxn's Trophies" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krakxn&theme=oldie&row=1&margin-w=5" alt="krakxn's Trophies" loading="lazy" /></a> </p>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:black">
 
@@ -70,7 +70,7 @@
 
 <h2 align="center">Streak 🔥</h2>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=krakxn&theme=graywhite" alt="krakxn's Streaks" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=krakxn&theme=graywhite" alt="krakxn's Streaks" loading="lazy" /> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -84,7 +84,7 @@
 
 <h3 align="center">Jun 27 - Present</h4>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krakxn&show_icons=true&locale=en&theme=swift&icon_color=050505" alt="krakxn's Stats" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krakxn&show_icons=true&locale=en&theme=swift&icon_color=050505" alt="krakxn's Stats" loading="lazy" /></p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -108,7 +108,7 @@
 
 <h6 align="center">▸ currently erroneous (lack of variance in public repos.)</h6>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="krakxn's Top Languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="krakxn's Top Languages" loading="lazy" /></p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -132,7 +132,13 @@
 
 <!-- 2. Global Activity Graph -->
 
+<!--
 [![AN's github activity graph](https://activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+
+<!-- Currently 2. -->
+
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8" alt="krakxn's Top Languages" loading="lazy" /></p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
  
@@ -181,7 +187,7 @@
 
 <h6 align="center">▸ generally hh (or classical piano) :c</h6>
 
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gon44oozlgu62nit3rf352sbyu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /> </p>
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gon44oozlgu62nit3rf352sbyu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" loading="lazy" /> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -197,7 +203,7 @@
 
 <!-- Custom parameters -->
 
-<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&codeColor=%555555&textColor=%0a0100&qColor=%0a0100&aColor=%0a0100" alt="krakxn's Jokes Card" /></p>
+<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&codeColor=%555555&textColor=%0a0100&qColor=%0a0100&aColor=%0a0100" alt="krakxn's Jokes Card" loading="lazy" /></p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -215,7 +221,7 @@
 
 <h6 align="center">▸ snek. 🐍 | reminiscent of pac-man..</h6>
 
-<p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Animation" /> </p>
+<p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Animation" loading="lazy" /> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -230,12 +236,12 @@
 <!-- 1. Non-customizable but center; Themes: nord, light, dark, graywhite??? -->
 
 <!--
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" /> </p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" loading="lazy" /> </p>
 -->
 
 <!-- 2. Customizable but no center -->
 
-<p align="center"> <img src="https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&quoteCategory=life&font=Redressed" /> </p>
+<p align="left"> <img src="https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&quoteCategory=life&font=Redressed" loading="lazy" /> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
