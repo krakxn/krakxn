@@ -98,7 +98,7 @@
 
 <!-- Top languages: -->
 
-<h3 align="center">Public repositories</h3>
+<h3 align="center">Top languages</h3>
 
 <h6 align="center">▸ currently erroneous (lack of variance in public repos.)</h6>
 
@@ -205,7 +205,7 @@
 
 <!-- 1: Non-customizable but center--Themes: nord, light, dark -->
 
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" /> </p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" /> </p>
 
 <!-- 2: Customizable but no center -->
 
