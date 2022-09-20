@@ -20,6 +20,12 @@
 
 <img src="./img/cover.png">
 
+<!-- Hello world diff. langs. cover: -->
+
+<!--
+<p align="center"> <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Animation" /> </p>
+-->
+
 
 
 
@@ -191,7 +197,7 @@
 
 <!-- Custom parameters -->
 
-<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&codeColor=%4f4e4e&textColor=%0a0100&qColor=%0a0100&aColor=%0a0100" alt="krakxn's Jokes Card" /></p>
+<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&codeColor=%555555&textColor=%0a0100&qColor=%0a0100&aColor=%0a0100" alt="krakxn's Jokes Card" /></p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -201,9 +207,7 @@
 
 <!-- Quotes card: -->
 
-<h2 align="center">Not-so-corny quotes 📝</h2>
-
-<h6 align="center">▸ "again?" sorry.. :(</h6>
+<h2 align="center">Quotes 📝</h2>
 
 <!-- 1. Non-customizable but center; Themes: nord, light, dark, graywhite??? -->
 
@@ -223,9 +227,14 @@
 
 <!-- Snake contribution-grid Animation SVG: -->
 
-<h2 align="center">Contribution grid mini-game</h2>
 
-<h6 align="center">▸ snek. 🐍 | reminds me of pac-man..</h6>
+<!-- grid tittle -->
+<!--
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+-->
+<h2 align="center">Contribution-grid automated game 🎮</h2>
+
+<h6 align="center">▸ snek. 🐍 | reminiscent of pac-man..</h6>
 
 <p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Animation" /> </p>
 
@@ -234,6 +243,47 @@
 
 
 
+
+<!-- Memes: -->
+<!--
+<h2 align="center">Dev. memes! ^_____^ </h2>
+
+<h6 align="center">▸ who doesn't love memes? :p</h6>
+
+<p align="center"> <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="625"> </p>
+
+<hr style="width:50%;text-align:left;margin-left:0">
+-->
+
+<!-- pawwots -->
+<!--
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
+-->
 
 <!-- Animation SVG: -->
 
