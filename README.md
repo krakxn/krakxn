@@ -1,6 +1,14 @@
 <!-- Cover: -->
 
+<!-- `src` as Online: -->
+
+<!--
 <img src="https://github.com/krakxn/krakxn/blob/main/cover.png">
+-->
+
+<!-- `src` as Path: -->
+
+<img src="./img/cover.png">
 
 
 
