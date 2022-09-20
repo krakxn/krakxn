@@ -201,8 +201,9 @@
 
 <!-- Snek -->
 
+<!--
 ![Snake animation](https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg)
-
+-->
 
 
 
