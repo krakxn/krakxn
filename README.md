@@ -34,7 +34,7 @@
 
 <!-- Follow me (GitHub): -->
 
-<p align="center"> <a href="https://github.com/krakxn?tab=followers"><img alt="krakxn's Followers" title="Follow me on GitHub!" src="https://custom-icon-badges.herokuapp.com/github/followers/krakxn?color=000205&labelColor=5A5A5A&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://github.com/krakxn?tab=followers"><img alt="krakxn's Followers" title="Follow me on GitHub!" src="https://custom-icon-badges.herokuapp.com/github/followers/krakxn?color=000205&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> </a> </p>
 
 
 
