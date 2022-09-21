@@ -1,6 +1,6 @@
 <!-- Animation SVG: -->
 
-<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -23,7 +23,7 @@
 <!-- Hello world diff. langs. cover: -->
 
 <!--
-<p align="center"> <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Animation" /> </p>
+<p align="center"> <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Animation — Try refreshing" /> </p>
 -->
 
 
@@ -32,7 +32,7 @@
 
 <!-- Views counter: -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=krakxn&label=Profile%20Views&color=000205&style=for-the-badge" alt="krakxn's Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krakxn&label=Profile%20Views&color=000205&style=for-the-badge" alt="Profile Views — Try refreshing" /> </p>
 
 
 
@@ -40,7 +40,7 @@
 
 <!-- Follow me (GitHub): -->
 
-<p align="center"> <a href="https://github.com/krakxn?tab=followers"><img alt="krakxn's Followers" title="Follow me on GitHub!" src="https://custom-icon-badges.herokuapp.com/github/followers/krakxn?color=000205&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://github.com/krakxn?tab=followers"><img alt="Followers — Try refreshing" title="Follow me on GitHub!" src="https://custom-icon-badges.herokuapp.com/github/followers/krakxn?color=000205&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> </a> </p>
 
 
 
@@ -58,7 +58,7 @@
 
 <h2 align="center">Trophies ✨</h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krakxn&theme=oldie&row=1&margin-w=5" alt="krakxn's Trophies" loading="lazy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krakxn&theme=oldie&row=1&margin-w=5" alt="Trophies — Try refreshing" loading="lazy" /></a> </p>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:black">
 
@@ -68,9 +68,9 @@
 
 <!-- Streak stats: -->
 
-<h2 align="center">Streak 🔥</h2>
+<h2 align="center">Streaks 🔥</h2>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=krakxn&theme=graywhite" alt="krakxn's Streaks" loading="lazy" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=krakxn&theme=graywhite" alt="Streaks — Try refreshing" loading="lazy" /> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -84,7 +84,7 @@
 
 <h3 align="center">Jun 27 - Present</h4>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krakxn&show_icons=true&locale=en&theme=swift&icon_color=050505" alt="krakxn's Stats" loading="lazy" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krakxn&show_icons=true&locale=en&theme=swift&icon_color=050505" alt="Stats — Try refreshing" loading="lazy" /></p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -108,7 +108,7 @@
 
 <h6 align="center">▸ currently erroneous (lack of variance in public repos.)</h6>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="krakxn's Top Languages" loading="lazy" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="Top Languages — Try refreshing" loading="lazy" /></p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -138,7 +138,7 @@
 
 <!-- Currently 2. -->
 
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8" alt="krakxn's Top Languages" loading="lazy" /></p>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8" alt="Activity Graph — Try refreshing" loading="lazy" /></p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
  
@@ -203,7 +203,7 @@
 
 <!-- Custom parameters -->
 
-<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&codeColor=%555555&textColor=%0a0100&qColor=%0a0100&aColor=%0a0100" alt="krakxn's Jokes Card" loading="lazy" /></p>
+<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&codeColor=%555555&textColor=%0a0100&qColor=%0a0100&aColor=%0a0100" alt="Jokes — Try refreshing" loading="lazy" /></p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -221,7 +221,7 @@
 
 <h6 align="center">▸ snek. 🐍 | reminiscent of pac-man..</h6>
 
-<p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Animation" loading="lazy" /> </p>
+<p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Contribution-grid mini-game — Try refreshing" loading="lazy" /> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -253,7 +253,7 @@
 
 <h6 align="center">▸ who doesn't love memes? :p</h6>
 
-<p align="center"> <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="625"> </p>
+<p align="center"> <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Memes — Try refreshing" height="625"> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 -->
@@ -290,4 +290,4 @@
 
 <!-- Animation SVG: -->
 
-<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
