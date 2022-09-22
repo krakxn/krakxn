@@ -230,18 +230,19 @@
 
 
 
-
-
 <!-- Dev. metrics -- Wakatime: -->
 
-<!--
-<h2 align="center">Dev metrics</h2>
--->
+<!-- <h2 align="center">Dev. metrics</h2> -->
+
+<details>
+
+<summary>Dev. metrics 🖥️</summary>
+<h4 align="left">Added soon.</h4>
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
+</details>
 
 
 
