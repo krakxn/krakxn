@@ -15,5 +15,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "automated updates: recent activity"
+          COMMIT_MSG: "automated updates — recent activity"
           MAX_LINES: 5
