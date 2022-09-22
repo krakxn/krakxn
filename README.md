@@ -213,7 +213,9 @@
 
 <!-- Recent activity: -->
 
-<h2 align="center">Recent activity ⚡</h2>
+<details>
+
+<summary>Recent activity ⚡</summary>
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#330](https://github.com/anmol098/waka-readme-stats/issues/330) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
@@ -224,7 +226,7 @@
 5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
 <!--END_SECTION:activity-->
 
-<hr style="width:50%;text-align:left;margin-left:0">
+</details>
 
 
 
@@ -244,6 +246,9 @@
 <!--END_SECTION:waka-->
 
 </details>
+
+<hr style="width:50%;text-align:left;margin-left:0">
+
 
 
 
