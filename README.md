@@ -293,16 +293,27 @@
 
 
 <!-- Recent activity: -->
-
+<!--
 <h2 align="center">Recent activity ⚡</h2>
-
+-->
 <!--START_SECTION:activity-->
+<!--
 1. ❗️ Closed issue [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
 2. 🗣 Commented on [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
 3. 💪 Opened PR [#3](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/3) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
 4. 🗣 Commented on [#1893](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/1893) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
+-->
 <!--END_SECTION:activity-->
+
+
+
+
+<!-- Pagespeed metrics -->
+<!--
+<p align="center">	<img src="res/pagespeed_light.svg"> </p>
+<p align="center">	<img src="res/pagespeed_dark.svg"> </p>
+-->
 
 
 
