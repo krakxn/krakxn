@@ -1,3 +1,5 @@
+<!-- For the sake of modularity (and accessibility), unused utilities are at last -->
+
 <!-- Animation SVG: -->
 
 <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
@@ -8,23 +10,17 @@
 
 
 
-<!-- Cover: -->
+<!-- Cover PNG: -->
 
-<!-- `src` as URL: -->
+<!-- 1. `src` = URL: -->
 
 <!--
-<img src="https://github.com/krakxn/krakxn/blob/main/cover.png">
+<img src="https://github.com/krakxn/krakxn/blob/main/cover.png" alt="Cover — Try refreshing">
 -->
 
-<!-- `src` as Path: -->
+<!-- 2. `src` = Path: -->
 
 <img src="./res/cover.png" alt="Cover — Try refreshing">
-
-<!-- Hello world diff. langs. cover: -->
-
-<!--
-<p align="center"> <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Animation — Try refreshing" /> </p>
--->
 
 
 
@@ -38,7 +34,7 @@
 
 
 
-<!-- Follow me (GitHub): -->
+<!-- Follow me button (GitHub): -->
 
 <p align="center"> <a href="https://github.com/krakxn?tab=followers"><img alt="Followers — Try refreshing" title="Follow me on GitHub!" src="https://custom-icon-badges.herokuapp.com/github/followers/krakxn?color=000205&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> </a> </p>
 
@@ -46,9 +42,9 @@
 
 
 
-<!-- Subtitle/Dynamic SVG: -->
+<!-- Subtitle -- Dynamic SVG: -->
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Is...+curious+(always+learning!).+Stoic.+Passionate+(effective-altruism!).;Obsessed+with...+space.+Cryptography+(ZK,+Post-quantum).+Applied+game-theory.;Loves...reading.+Listening+to+music+(24/7!).+Gaming+(rarely+lately..).&font=Source+Sans+Pro&color=050505&background=ffffff&duration=4000&center=true&vCenter=true&size=30&width=1100&height=75"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Is...+curious+(always+learning!).+Stoic.+Passionate+(effective-altruism!).;Obsessed+with...+space.+Cryptography+(ZK,+Post-quantum).+Applied+game-theory.;Loves...reading.+Listening+to+music+(24/7!).+Gaming+(rarely+lately..).&font=Source+Sans+Pro&color=050505&background=ffffff&duration=4000&center=true&vCenter=true&size=30&width=1100&height=75" alt="Subtitle — Try refreshing"> </p>
 
 
 
@@ -66,7 +62,7 @@
 
 
 
-<!-- Streak stats: -->
+<!-- Streaks: -->
 
 <h2 align="center">Streaks 🔥</h2>
 
@@ -78,7 +74,7 @@
 
 
 
-<!-- Profile stats: -->
+<!-- GitHub Stats: -->
 
 <h2 align="center">Stats 🖥️</h2>
 
@@ -122,21 +118,21 @@
 
 <h3 align="center">Past 31 days</h3>
 
-<h6 align="center">▸ uh oh, a rugpull! 📉</h6>
+<!-- <h6 align="center">▸ uh oh, a rugpull! 📉</h6> -->
 
-<!-- 1. Custom-Heroku Graph -->
+<!-- 1. Manually-hosted (Heroku) -->
 
 <!--
 [![AN's GitHub Activity Graph](https://krakxn-activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
-<!-- 2. Global Graph -->
+<!-- 2. Globally-hosted -->
 
 <!--
 [![AN's github activity graph](https://activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
-<!-- Currently 2. -->
+<!-- Currently selected: 2. -->
 
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8" alt="Activity Graph — Try refreshing" loading="lazy" /></p>
 
@@ -145,7 +141,105 @@
  
  
  
- 
+
+<!-- Spotify (Now playing): -->
+
+<h2 align="center">Currently playing 🎶</h2>
+
+<h6 align="center">▸ generally hh (or classical piano) :c</h6>
+
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gon44oozlgu62nit3rf352sbyu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" loading="lazy" alt="Currently playing — Try refreshing" /> </p>
+
+<hr style="width:50%;text-align:left;margin-left:0">
+
+
+
+
+
+<!-- Jokes: -->
+
+<h2 align="center">Not-so-corny dev. jokes 🙈</h2>
+
+<h6 align="center">▸ ah yes, coping</h6>
+
+<!-- Parameters are customized -->
+
+<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&codeColor=%555555&textColor=%0a0100&qColor=%0a0100&aColor=%0a0100" alt="Jokes — Try refreshing" loading="lazy" /></p>
+
+<hr style="width:50%;text-align:left;margin-left:0">
+
+
+
+
+
+<!-- Snake contribution-grid mini-game -- Animation SVG: -->
+
+<!-- Title animation: -->
+
+<!--
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500" alt="Title — Try refreshing">
+-->
+
+<h2 align="center">Contribution-grid mini-game 🎮</h2>
+
+<h6 align="center">▸ snek. 🐍 | reminiscent of pac-man..</h6>
+
+<p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Contribution-grid mini-game — Try refreshing" loading="lazy" /> </p>
+
+<hr style="width:50%;text-align:left;margin-left:0">
+
+
+
+
+
+<!-- Quotes card: -->
+
+<h2 align="center">Quotes 📝</h2>
+
+<!-- 1. Non-customizable but can be aligned center; Themes: nord, light, dark, graywhite? (PR) -->
+
+<!--
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" loading="lazy" alt="Quotes — Try refreshing" /> </p>
+-->
+
+<!-- 2. Customizable but cannot be aligned center -->
+
+<p align="left"> <img src="https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&quoteCategory=life&font=Redressed" loading="lazy" alt="Quotes — Try refreshing" /> </p>
+
+<hr style="width:50%;text-align:left;margin-left:0">
+
+
+
+
+
+<!-- Recent activity: -->
+
+<h2 align="center">Recent activity ⚡</h2>
+
+<!--START_SECTION:activity-->
+1. ❗️ Closed issue [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+2. 🗣 Commented on [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+3. 💪 Opened PR [#3](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/3) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
+4. 🗣 Commented on [#1893](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/1893) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
+5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
+<!--END_SECTION:activity-->
+
+
+
+
+
+
+
+
+<!-- Animation SVG: -->
+
+<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
+
+
+
+
+
 <!-- Music detailed: --> 
 
 <!--
@@ -181,73 +275,9 @@
 
 
 
-<!-- Spotify (Now playing): -->
-
-<h2 align="center">Currently playing 🎶</h2>
-
-<h6 align="center">▸ generally hh (or classical piano) :c</h6>
-
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gon44oozlgu62nit3rf352sbyu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" loading="lazy" /> </p>
-
-<hr style="width:50%;text-align:left;margin-left:0">
-
-
-
-
-
-<!-- Jokes card: -->
-
-<h2 align="center">Not-so-corny dev. jokes 🙈</h2>
-
-<h6 align="center">▸ ah yes.. coping</h6>
-
-<!-- Custom parameters -->
-
-<p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&codeColor=%555555&textColor=%0a0100&qColor=%0a0100&aColor=%0a0100" alt="Jokes — Try refreshing" loading="lazy" /></p>
-
-<hr style="width:50%;text-align:left;margin-left:0">
-
-
-
-
-<!-- Snake contribution-grid Animation SVG: -->
-
-
-<!-- grid tittle -->
-<!--
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
--->
-<h2 align="center">Contribution-grid mini-game 🎮</h2>
-
-<h6 align="center">▸ snek. 🐍 | reminiscent of pac-man..</h6>
-
-<p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Contribution-grid mini-game — Try refreshing" loading="lazy" /> </p>
-
-<hr style="width:50%;text-align:left;margin-left:0">
-
-
-
-
-
-<!-- Quotes card: -->
-
-<h2 align="center">Quotes 📝</h2>
-
-<!-- 1. Non-customizable but center; Themes: nord, light, dark, graywhite??? -->
-
-<!--
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" loading="lazy" /> </p>
--->
-
-<!-- 2. Customizable but no center -->
-
-<p align="left"> <img src="https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&quoteCategory=life&font=Redressed" loading="lazy" /> </p>
-
-<hr style="width:50%;text-align:left;margin-left:0">
-
-
 
 <!-- Memes: -->
+
 <!--
 <h2 align="center">Dev. memes! ^_____^ </h2>
 
@@ -258,7 +288,12 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 -->
 
+
+
+
+
 <!-- pawwots -->
+
 <!--
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -292,21 +327,17 @@
 
 
 
-<!-- Recent activity: -->
+<!-- Cover SVG -- (`Hello World` in numerous languages): -->
 
-<h2 align="center">Recent activity ⚡</h2>
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-2. 🗣 Commented on [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-3. 💪 Opened PR [#3](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/3) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
-4. 🗣 Commented on [#1893](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/1893) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
-5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
-<!--END_SECTION:activity-->
+<!--
+<p align="center"> <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Animation — Try refreshing" /> </p>
+-->
 
 
-<!-- dev metrrics wakatime -->
+
+
+
+<!-- Dev. metrics -- Wakatime: -->
 
 <!--
 <h2 align="center">Dev metrics</h2>
@@ -319,17 +350,10 @@
 
 
 
-<!-- Pagespeed metrics -->
+
+<!-- Pagespeed web metrics -->
 <!--
-<p align="center">	<img src="res/pagespeed_light.svg"> </p>
-<p align="center">	<img src="res/pagespeed_dark.svg"> </p>
+<p align="center">	<img src="res/pagespeed_light.svg" alt="Pagespeed metrics — Try refreshing"> </p>
+<p align="center">	<img src="res/pagespeed_dark.svg" alt="Pagespeed metrics — Try refreshing"> </p>
 -->
 
-
-
-
-
-
-<!-- Animation SVG: -->
-
-<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
