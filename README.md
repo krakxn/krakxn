@@ -116,21 +116,21 @@
 
 
 
-<!-- Contributions activity graph: -->
+<!-- Contributions graph: -->
 
-<h2 align="center">Activity graph ⚡</h2>
+<h2 align="center">Contributions graph 📈</h2>
 
 <h3 align="center">Past 31 days</h3>
 
-<h6 align="center">▸ uh oh.. a rugpull!</h6>
+<h6 align="center">▸ uh oh, a rugpull! 📉</h6>
 
-<!-- 1. Custom-Heroku Activity Graph -->
+<!-- 1. Custom-Heroku Graph -->
 
 <!--
 [![AN's GitHub Activity Graph](https://krakxn-activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
-<!-- 2. Global Activity Graph -->
+<!-- 2. Global Graph -->
 
 <!--
 [![AN's github activity graph](https://activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -288,7 +288,13 @@
 </div>
 -->
 
+
+
+
+
 <!-- Recent activity: -->
+
+<h2 align="center">Recent activity ⚡</h2>
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#3](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/3) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
