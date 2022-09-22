@@ -293,9 +293,9 @@
 
 
 <!-- Recent activity: -->
-<!--
+
 <h2 align="center">Recent activity ⚡</h2>
--->
+
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
 2. 🗣 Commented on [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
@@ -305,6 +305,16 @@
 5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
 -->
 <!--END_SECTION:activity-->
+
+
+<!-- dev metrrics wakatime -->
+
+<!--
+<h2 align="center">Dev metrics</h2>
+-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
