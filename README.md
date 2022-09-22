@@ -98,7 +98,7 @@
 
 <h3 align="center">Top languages</h3>
 
-<h6 align="center">▸ currently erroneous (lack of variance in public repos.)</h6>
+<h6 align="center">· currently erroneous (lack of variance in public repos.)</h6>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="Top Languages — Try refreshing" loading="lazy" /></p>
 
@@ -114,7 +114,7 @@
 
 <h3 align="center">Past 31 days</h3>
 
-<!-- <h6 align="center">▸ uh oh, a rugpull! 📉</h6> -->
+<!-- <h6 align="center">· uh oh, a rugpull! 📉</h6> -->
 
 <!-- 1. Manually-hosted (Heroku) -->
 
@@ -142,7 +142,7 @@
 
 <h2 align="center">Not-so-corny jokes 🙈</h2>
 
-<h6 align="center">▸ ah yes, coping</h6>
+<h6 align="center">· ah yes, coping</h6>
 
 <!-- Parameters are customized -->
 
@@ -158,7 +158,7 @@
 
 <h2 align="center">Currently playing 🎶</h2>
 
-<h6 align="center">▸ generally hh (or classical piano) :c</h6>
+<h6 align="center">· generally hh (or classical piano) :c</h6>
 
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gon44oozlgu62nit3rf352sbyu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" loading="lazy" alt="Currently playing — Try refreshing" /> </p>
 
@@ -178,8 +178,8 @@
 
 <h2 align="center">Contribution-grid snek 🐍</h2>
 
-<h6 align="center">▸ reminiscent of retro-snake/pac-man..</h6>
-
+<h6 align="center">· reminiscent of retro-snake/pac-man..</h6>
+ 
 <p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Contribution-grid mini-game — Try refreshing" loading="lazy" /> </p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
@@ -215,7 +215,7 @@
 
 <details>
 
-<summary>Recent activity ⚡</summary>
+<summary><b>Recent activity ⚡</b></summary>
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#330](https://github.com/anmol098/waka-readme-stats/issues/330) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
@@ -234,15 +234,12 @@
 
 <!-- Dev. metrics -- Wakatime: -->
 
-<!-- <h2 align="center">Dev. metrics</h2> -->
-
 <details>
 
-<summary>Dev. metrics 🖥️</summary>
-<h4 align="left">Added soon.</h4>
+<summary><b>Dev. metrics 🖥️</b></summary>
+<h4 align="left">Added soon; inaccurate if shown.</h4>
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -261,7 +258,7 @@
 
 
 
-<h6 align="center">▸ sorry.. too cute to be excluded 😬</h6>
+<h6 align="center">· sorry.. too cute to be excluded 😬</h6>
 
 <!-- pawwots -->
 
@@ -335,7 +332,7 @@
 <!--
 <h2 align="center">Dev. memes! ^_____^ </h2>
 
-<h6 align="center">▸ who doesn't love memes? :p</h6>
+<h6 align="center">· who doesn't love memes? :p</h6>
 
 <p align="center"> <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Memes — Try refreshing" height="625"> </p>
 
