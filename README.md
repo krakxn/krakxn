@@ -271,11 +271,11 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 <br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#330](https://github.com/anmol098/waka-readme-stats/issues/330) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. ❗️ Closed issue [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-3. 🗣 Commented on [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-4. 💪 Opened PR [#3](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/3) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
-5. 🗣 Commented on [#1893](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/1893) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+1. 🗣 Commented on [#1](https://github.com/zjy-1998/hardhat-simple-storage-fcc/issues/1) in [zjy-1998/hardhat-simple-storage-fcc](https://github.com/zjy-1998/hardhat-simple-storage-fcc)
+2. 💪 Opened PR [#1](https://github.com/zjy-1998/hardhat-simple-storage-fcc/pull/1) in [zjy-1998/hardhat-simple-storage-fcc](https://github.com/zjy-1998/hardhat-simple-storage-fcc)
+3. ❗️ Opened issue [#330](https://github.com/anmol098/waka-readme-stats/issues/330) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. ❗️ Closed issue [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+5. 🗣 Commented on [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
 5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
 <!--END_SECTION:activity-->
 
