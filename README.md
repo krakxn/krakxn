@@ -272,10 +272,10 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/zjy-1998/hardhat-simple-storage-fcc/issues/1) in [zjy-1998/hardhat-simple-storage-fcc](https://github.com/zjy-1998/hardhat-simple-storage-fcc)
-2. 💪 Opened PR [#1](https://github.com/zjy-1998/hardhat-simple-storage-fcc/pull/1) in [zjy-1998/hardhat-simple-storage-fcc](https://github.com/zjy-1998/hardhat-simple-storage-fcc)
-3. ❗️ Opened issue [#330](https://github.com/anmol098/waka-readme-stats/issues/330) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. ❗️ Closed issue [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-5. 🗣 Commented on [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+2. 🗣 Commented on [#1](https://github.com/zjy-1998/hardhat-simple-storage-fcc/issues/1) in [zjy-1998/hardhat-simple-storage-fcc](https://github.com/zjy-1998/hardhat-simple-storage-fcc)
+3. 💪 Opened PR [#1](https://github.com/zjy-1998/hardhat-simple-storage-fcc/pull/1) in [zjy-1998/hardhat-simple-storage-fcc](https://github.com/zjy-1998/hardhat-simple-storage-fcc)
+4. ❗️ Opened issue [#330](https://github.com/anmol098/waka-readme-stats/issues/330) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+5. ❗️ Closed issue [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
 5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
 <!--END_SECTION:activity-->
 
