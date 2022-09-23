@@ -1,4 +1,9 @@
 <!-- For the sake of modularity (and accessibility), unused utilities are at last -->
+<!-- Do not trim the whitespaces: easier readability -->
+
+
+
+
 
 <!-- Animation SVG: -->
 
@@ -174,11 +179,9 @@
 
 <!-- Title animation: -->
 
-<!--
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500" alt="Title — Try refreshing">
--->
+<p align="center"> <img src="https://i.imgur.com/x1KbuCq.gif" width="500" alt="Title animation — Try refreshing"> </p>
 
-<h2 align="center">Contribution-grid (snek! 🐍)</h2>
+<!-- <h2 align="center">Contribution-grid (snek! 🐍)</h2> -->
 
 <h6 align="center">· reminiscent of retro-snake/pac-man..</h6>
  
