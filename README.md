@@ -178,7 +178,7 @@
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500" alt="Title — Try refreshing">
 -->
 
-<h2 align="center">Contribution-grid snek 🐍</h2>
+<h2 align="center">Contribution-grid (snek! 🐍)</h2>
 
 <h6 align="center">· reminiscent of retro-snake/pac-man..</h6>
  
@@ -213,33 +213,18 @@
 
 
 
-<!-- Recent activity: -->
 
-<details>
+<!-- Details tag: -->
 
-<summary><b>Recent activity ⚡</b></summary>
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#330](https://github.com/anmol098/waka-readme-stats/issues/330) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. ❗️ Closed issue [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-3. 🗣 Commented on [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-4. 💪 Opened PR [#3](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/3) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
-5. 🗣 Commented on [#1893](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/1893) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
-<!--END_SECTION:activity-->
-
-</details>
-
-
-
-
+<h6 align="center">· click to reveal; unclick to hide</h6>
 
 <!-- Dev. metrics -- Wakatime: -->
 
 <details>
 
-<summary><b>Dev. metrics 🖥️</b></summary>
-<h4 align="left">Added soon; inaccurate if shown.</h4>
+<summary><b>Automated dev. metrics 📊</b></summary>
+
+<br>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -251,7 +236,7 @@
 🌙 Night      32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm the most productive on Friday** 
 
 ```text
 Monday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
@@ -270,23 +255,40 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 
 </details>
 
-<hr style="width:50%;text-align:left;margin-left:0">
+
+
+
+
+<!-- Recent activity: -->
+
+<details>
+
+<summary><b>Recent activity ⚡</b></summary>
+
+<br>
+
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#330](https://github.com/anmol098/waka-readme-stats/issues/330) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+2. ❗️ Closed issue [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+3. 🗣 Commented on [#23](https://github.com/PiyushSuthar/github-readme-quotes/issues/23) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+4. 💪 Opened PR [#3](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/3) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
+5. 🗣 Commented on [#1893](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/1893) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
+<!--END_SECTION:activity-->
+
+</details>
 
 
 
 
 
-<!-- Animation SVG: -->
+<!-- Pawwots -->
 
-<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
+<details>
 
-
-
-
+<summary><b>Birbs? 🦜</b></summary>
 
 <h6 align="center">· sorry.. too cute to be excluded 😬</h6>
-
-<!-- pawwots -->
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -314,6 +316,18 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+
+</details>
+
+
+
+
+
+<!-- Animation SVG: -->
+
+<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" /> </p>
+
+
 
 
 
