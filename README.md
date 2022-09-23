@@ -242,7 +242,82 @@
 <h4 align="left">Added soon; inaccurate if shown.</h4>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-556-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 911 Contributions in the Year 2022
+ > 
+> 📦 157.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 78 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    27 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+🌆 Daytime    72 commits     ██████████░░░░░░░░░░░░░░░   42.11% 
+🌃 Evening    40 commits     █████░░░░░░░░░░░░░░░░░░░░   23.39% 
+🌙 Night      32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       28 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.37% 
+Tuesday      31 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.13% 
+Wednesday    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
+Thursday     30 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
+Friday       32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+Saturday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
+Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.85%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               25 repos            ████████████████████░░░░░   80.65% 
+Solidity                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/krakxn/krakxn/main/charts/bar_graph.png) 
+
+
+ Last Updated on 23/09/2022 10:32:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
