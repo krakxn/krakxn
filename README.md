@@ -218,6 +218,8 @@
 
 <summary> <b>Contribution-grid (snek 🐍)</b> </summary>
 
+<br>
+
 <p align="center"> <img src="https://i.imgur.com/x1KbuCq.gif" width="500" alt="Title animation — Try refreshing"> </p>
 
 <h6 align="center">· reminiscent of retro-snake/pac-man..</h6>
