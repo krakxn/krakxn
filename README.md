@@ -212,6 +212,35 @@
 
 
 
+<!-- Naval quotes: -->
+
+<details>
+
+<summary><b>Naval excerpts 📝</b></summary>
+
+<h6 align="center">· updated arbitrarily (for quality)</h6>
+
+<br>
+<br>
+<br>
+
+<p align="center">“The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge.”</p>
+
+<br>
+<br>
+<br>
+
+</details>
+
+
+
+
+
+
+
+
+
+
 <!-- Dev. metrics -- Wakatime: -->
 
 <details>
@@ -261,6 +290,7 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 
 <br>
 <br>
+
 
 <p align="center">	<img src="res/pagespeed_hybrid.svg" alt="Pagespeed metrics — Try refreshing" height="250"> </p>
  
