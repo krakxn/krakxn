@@ -175,19 +175,6 @@
 
 
 
-<!-- Snake contribution-grid mini-game -- Animation SVG: -->
-
-<!-- Title animation: -->
-
-<p align="center"> <img src="https://i.imgur.com/x1KbuCq.gif" width="500" alt="Title animation — Try refreshing"> </p>
-
-<!-- <h2 align="center">Contribution-grid (snek! 🐍)</h2> -->
-
-<h6 align="center">· reminiscent of retro-snake/pac-man..</h6>
- 
-<p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Contribution-grid mini-game — Try refreshing" loading="lazy" /> </p>
-
-<hr style="width:50%;text-align:left;margin-left:0">
 
 
 
@@ -221,6 +208,28 @@
 
 <h6 align="center">· click to reveal; unclick to hide</h6>
 
+
+
+
+
+<!-- Snake contribution-grid mini-game -- Animation SVG: -->
+
+<details>
+
+<summary> <b>Contribution-grid (snek 🐍)</b> </summary>
+
+<p align="center"> <img src="https://i.imgur.com/x1KbuCq.gif" width="500" alt="Title animation — Try refreshing"> </p>
+
+<h6 align="center">· reminiscent of retro-snake/pac-man..</h6>
+ 
+<p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Contribution-grid mini-game — Try refreshing" loading="lazy" /> </p>
+
+</details>
+
+
+
+
+
 <!-- Dev. metrics -- Wakatime: -->
 
 <details>
@@ -239,7 +248,7 @@
 🌙 Night      32 commits     █████░░░░░░░░░░░░░░░░░░░░   19.88%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm the most productive on Friday** 
 
 ```text
 Monday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
