@@ -212,26 +212,6 @@
 
 
 
-<!-- Snake contribution-grid mini-game -- Animation SVG: -->
-
-<details>
-
-<summary> <b>Contribution-grid (snek 🐍)</b> </summary>
-
-<br>
-
-<p align="center"> <img src="https://i.imgur.com/x1KbuCq.gif" width="500" alt="Title animation — Try refreshing"> </p>
-
-<h6 align="center">· reminiscent of retro-snake/pac-man..</h6>
- 
-<p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Contribution-grid mini-game — Try refreshing" loading="lazy" /> </p>
-
-</details>
-
-
-
-
-
 <!-- Dev. metrics -- Wakatime: -->
 
 <details>
@@ -266,6 +246,40 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+</details>
+
+
+
+
+
+<!-- Pagespeed web metrics -->
+
+<details>
+
+<summary><b>Pagespeed web. metrics 📑</b></summary>
+
+<br>
+<br>
+
+<p align="center">	<img src="res/pagespeed_hybrid.svg" alt="Pagespeed metrics — Try refreshing" height="250"> </p>
+ 
+</details>
+
+
+
+
+<!-- Snake contribution-grid mini-game -- Animation SVG: -->
+
+<details>
+
+<summary><b>Contribution-grid 🐍</b></summary>
+
+<br>
+
+<p align="center"> <img src="https://i.imgur.com/x1KbuCq.gif" width="500" alt="Title animation — Try refreshing"> </p>
+ 
+<p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Contribution-grid mini-game — Try refreshing" loading="lazy" /> </p>
 
 </details>
 
@@ -408,19 +422,5 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 
 
 
-<!-- Pagespeed web metrics -->
 
-<!--
-<h2 align="center">Pagespeed website metrics</h2>
--->
 
-<!--
-<p align="center">	<img src="res/pagespeed_light.svg" alt="Pagespeed metrics — Try refreshing"> </p>
-<p align="center">	<img src="res/pagespeed_dark.svg" alt="Pagespeed metrics — Try refreshing"> </p>
--->
-
-<!--
-<p align="center">	<img src="res/pagespeed_hybrid.svg" alt="Pagespeed metrics — Try refreshing" height="250"> </p>
- 
-<hr style="width:50%;text-align:left;margin-left:0">
--->
