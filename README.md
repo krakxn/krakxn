@@ -245,7 +245,9 @@
 
 <details>
 
-<summary><b>Automated dev. metrics 📊</b></summary>
+<summary><b>Dev. metrics 📊</b></summary>
+
+<h6 align="center">· automated, grammar funky at times</h6>
 
 <br>
 
