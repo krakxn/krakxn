@@ -327,11 +327,11 @@ Sunday       13 commits     ██░░░░░░░░░░░░░░░�
 <br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#198](https://github.com/shravan20/github-readme-quotes/issues/198) in [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes)
+1. 🗣 Commented on [#1842](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/1842) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 2. 🗣 Commented on [#198](https://github.com/shravan20/github-readme-quotes/issues/198) in [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes)
-3. 🗣 Commented on [#1841](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/1841) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-4. 🗣 Commented on [#1888](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/1888) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-5. 🗣 Commented on [#1](https://github.com/zjy-1998/hardhat-simple-storage-fcc/issues/1) in [zjy-1998/hardhat-simple-storage-fcc](https://github.com/zjy-1998/hardhat-simple-storage-fcc)
+3. 🗣 Commented on [#198](https://github.com/shravan20/github-readme-quotes/issues/198) in [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes)
+4. 🗣 Commented on [#1841](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/1841) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+5. 🗣 Commented on [#1888](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/1888) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
 <!--END_SECTION:activity-->
 
