@@ -50,7 +50,7 @@
 
 <!-- Subtitle -- Dynamic SVG: -->
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Is...+curious+(always+learning!).+Stoic.+Passionate+(effective-altruism!).;Obsessed+with...+space.+Cryptography+(ZK,+Post-quantum).+Applied+game-theory.;Loves...reading.+Listening+to+music+(24/7!).+Gaming+(rarely+lately..).&font=Source+Sans+Pro&color=050505&background=ffffff&duration=4000&center=true&vCenter=true&size=30&width=1100&height=75" alt="Subtitle — Try refreshing"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Is...+curious+(always+learning!).+Stoic.+Passionate+(effective-altruism+:3).;Obsessed+with...+space.+Cryptography+(ZK,+Post-quantum).+Applied+game-theory.;Loves...reading.+Listening+to+music+(uh..24/7).+Gaming+(rarely+lately..).&font=Source+Sans+Pro&color=050505&background=ffffff&duration=4000&center=true&vCenter=true&size=30&width=1100&height=75" alt="Subtitle — Try refreshing"> </p>
 
 
 
