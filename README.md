@@ -1,5 +1,6 @@
 <!-- For the sake of modularity (and accessibility), unused utilities are at last -->
 <!-- Do not trim the whitespaces: easier readability -->
+<!-- To do: <sup> -->
 
 
 
@@ -216,7 +217,7 @@
 
 <details>
 
-<summary><b>Naval excerpts 📝</b></summary>
+<summary>Naval excerpts 📝</summary>
 
 <h6 align="center">· updated arbitrarily (for quality)</h6>
 
@@ -224,7 +225,7 @@
 <br>
 <br>
 
-<p align="center">“The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge.”</p>
+<p align="center"><i><ins><q>The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge.</q></ins></i></p>
 
 <br>
 <br>
@@ -245,11 +246,9 @@
 
 <details>
 
-<summary><b>Dev. metrics 📊</b></summary>
+<summary>Dev. metrics 📊</summary>
 
 <h6 align="center">· automated, grammar funky at times</h6>
-
-<br>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -288,7 +287,7 @@ Sunday       13 commits     ██░░░░░░░░░░░░░░░�
 
 <details>
 
-<summary><b>Pagespeed web. metrics 📑</b></summary>
+<summary>Pagespeed web. metrics 📑</summary>
 
 <br>
 <br>
@@ -305,7 +304,7 @@ Sunday       13 commits     ██░░░░░░░░░░░░░░░�
 
 <details>
 
-<summary><b>Contribution-grid 🐍</b></summary>
+<summary>Contribution-grid 🐍</summary>
 
 <br>
 
@@ -323,7 +322,7 @@ Sunday       13 commits     ██░░░░░░░░░░░░░░░�
 
 <details>
 
-<summary><b>Recent activity ⚡</b></summary>
+<summary>Recent activity ⚡</summary>
 
 <br>
 
@@ -346,7 +345,7 @@ Sunday       13 commits     ██░░░░░░░░░░░░░░░�
 
 <details>
 
-<summary><b>Birbs? 🦜</b></summary>
+<summary>Birbs? 🦜</summary>
 
 <h6 align="center">· sorry.. too cute to be excluded 😬</h6>
 
