@@ -225,7 +225,7 @@
 <br>
 <br>
 
-<p align="center"><i><ins><q>The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge.</q></ins></i></p>
+<p align="center"><ins><q>The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge.</q></ins></p>
 
 <br>
 <br>
