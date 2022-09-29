@@ -327,11 +327,11 @@ Sunday       13 commits     ██░░░░░░░░░░░░░░░�
 <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/LEO-TEAM-CHAINLINK-HACKATHON/NFTLOTTERY1/pull/1) in [LEO-TEAM-CHAINLINK-HACKATHON/NFTLOTTERY1](https://github.com/LEO-TEAM-CHAINLINK-HACKATHON/NFTLOTTERY1)
-2. 💪 Opened PR [#1](https://github.com/Agastya221/Smart-contract/pull/1) in [Agastya221/Smart-contract](https://github.com/Agastya221/Smart-contract)
-3. 🗣 Commented on [#2867](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/2867) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-4. 🗣 Commented on [#1842](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/1842) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-5. 🗣 Commented on [#198](https://github.com/shravan20/github-readme-quotes/issues/198) in [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes)
+1. 🗣 Commented on [#1](https://github.com/LEO-TEAM-CHAINLINK-HACKATHON/NFTLOTTERY1/issues/1) in [LEO-TEAM-CHAINLINK-HACKATHON/NFTLOTTERY1](https://github.com/LEO-TEAM-CHAINLINK-HACKATHON/NFTLOTTERY1)
+2. 💪 Opened PR [#1](https://github.com/LEO-TEAM-CHAINLINK-HACKATHON/NFTLOTTERY1/pull/1) in [LEO-TEAM-CHAINLINK-HACKATHON/NFTLOTTERY1](https://github.com/LEO-TEAM-CHAINLINK-HACKATHON/NFTLOTTERY1)
+3. 💪 Opened PR [#1](https://github.com/Agastya221/Smart-contract/pull/1) in [Agastya221/Smart-contract](https://github.com/Agastya221/Smart-contract)
+4. 🗣 Commented on [#2867](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/2867) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+5. 🗣 Commented on [#1842](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/1842) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
 <!--END_SECTION:activity-->
 
