@@ -327,11 +327,11 @@ Sunday       13 commits     ██░░░░░░░░░░░░░░░�
 <br>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/PiyushSuthar/github-readme-quotes/pull/22) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-2. ❌ Closed PR [#1](https://github.com/krakxn/github-readme-quotes/pull/1) in [krakxn/github-readme-quotes](https://github.com/krakxn/github-readme-quotes)
-3. 💪 Opened PR [#1](https://github.com/krakxn/github-readme-quotes/pull/1) in [krakxn/github-readme-quotes](https://github.com/krakxn/github-readme-quotes)
-4. ❗️ Opened issue [#2976](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/2976) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-5. 🗣 Commented on [#1](https://github.com/LEO-TEAM-CHAINLINK-HACKATHON/NFTLOTTERY1/issues/1) in [LEO-TEAM-CHAINLINK-HACKATHON/NFTLOTTERY1](https://github.com/LEO-TEAM-CHAINLINK-HACKATHON/NFTLOTTERY1)
+1. 🗣 Commented on [#2900](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/2900) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+2. 💪 Opened PR [#30](https://github.com/PiyushSuthar/github-readme-quotes/pull/30) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+3. ❌ Closed PR [#29](https://github.com/PiyushSuthar/github-readme-quotes/pull/29) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+4. 💪 Opened PR [#29](https://github.com/PiyushSuthar/github-readme-quotes/pull/29) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+5. 🗣 Commented on [#22](https://github.com/PiyushSuthar/github-readme-quotes/issues/22) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
 5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
 <!--END_SECTION:activity-->
 
