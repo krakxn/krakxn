@@ -86,7 +86,7 @@
 
 <h4 align="center">Jun 27 - Present</h4>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krakxn&show_icons=true&locale=en&theme=swift&icon_color=050505" alt="Stats — Try refreshing" loading="lazy" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krakxn&show_icons=true&locale=en&theme=swift&icon_color=050505&hide=stars" alt="Stats — Try refreshing" loading="lazy" /></p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
@@ -146,6 +146,28 @@
 
 
 
+<!-- Quotes: -->
+
+<h2 align="center">Quotes 📝</h2>
+
+
+<!-- 1. Non-customizable but can be aligned center; Themes: nord, light, dark, graywhite; Horizontal/Vertical -->
+
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=graywhite" loading="lazy" alt="Quotes — Try refreshing" /> </p>
+
+
+<!-- 2. Customizable but cannot be aligned center -->
+
+<!--
+<p align="left"> <img src="https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&quoteCategory=life&font=Redressed" loading="lazy" alt="Quotes — Try refreshing" /> </p>
+-->
+
+<hr style="width:50%;text-align:left;margin-left:0">
+
+
+
+
+
 <!-- Jokes: -->
 
 <h2 align="center">Not-so-corny jokes 🙈</h2>
@@ -176,35 +198,6 @@
 
 
 
-
-
-
-
-
-<!-- Quotes: -->
-
-<!--
-<h2 align="center">Quotes 📝</h2>
--->
-
-<!-- 1. Non-customizable but can be aligned center; Themes: nord, light, dark, graywhite? (PR) -->
-
-<!--
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" loading="lazy" alt="Quotes — Try refreshing" /> </p>
--->
-
-<!-- 2. Customizable but cannot be aligned center -->
-
-<!--
-<p align="left"> <img src="https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&quoteCategory=life&font=Redressed" loading="lazy" alt="Quotes — Try refreshing" /> </p>
-
-<hr style="width:50%;text-align:left;margin-left:0">
--->
-
-
-
-
-
 <!-- Details tag: -->
 
 <h6 align="center">· click to reveal; unclick to hide</h6>
@@ -227,6 +220,7 @@
 
 <h4 align="center"><ins><q>The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge.</q></ins></h4>
 
+<br>
 <br>
 <br>
 <br>
@@ -283,11 +277,11 @@ Sunday       12 commits     ██░░░░░░░░░░░░░░░�
 
 
 
-<!-- Pagespeed web metrics -->
+<!-- PageSpeed web metrics -->
 
 <details>
 
-<summary>Pagespeed web. metrics 📑</summary>
+<summary>PageSpeed web. metrics 📑</summary>
 
 <br>
 <br>
