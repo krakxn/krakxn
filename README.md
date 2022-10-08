@@ -82,7 +82,7 @@
 
 <!-- GitHub Stats: -->
 
-<h2 align="center">Stats 🖥️</h2>
+<h2 align="center">Statistics 🖥️</h2>
 
 <h4 align="center">Jun 27 - Present</h4>
 
@@ -240,7 +240,7 @@
 
 <details>
 
-<summary>Dev. metrics 📊</summary>
+<summary>Weekly dev. metrics 📊</summary>
 
 <h6 align="center">· automated, grammar funky at times</h6>
 
@@ -298,7 +298,7 @@ Sunday       12 commits     ██░░░░░░░░░░░░░░░�
 
 <details>
 
-<summary>Contribution-grid 🐍</summary>
+<summary>Contribution-grid (🐍!)</summary>
 
 <br>
 
@@ -385,6 +385,8 @@ Sunday       12 commits     ██░░░░░░░░░░░░░░░�
 
 
 
+
+<!-- Unused utilities: -->
 
 <!-- Music detailed: --> 
 
