@@ -321,11 +321,11 @@ Sunday       12 commits     ██░░░░░░░░░░░░░░░�
 <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/PiyushSuthar/github-readme-quotes/pull/31) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-2. 🗣 Commented on [#2900](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/2900) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-3. 💪 Opened PR [#30](https://github.com/PiyushSuthar/github-readme-quotes/pull/30) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-4. ❌ Closed PR [#29](https://github.com/PiyushSuthar/github-readme-quotes/pull/29) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-5. 💪 Opened PR [#29](https://github.com/PiyushSuthar/github-readme-quotes/pull/29) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+1. 🗣 Commented on [#31](https://github.com/PiyushSuthar/github-readme-quotes/issues/31) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+2. 💪 Opened PR [#31](https://github.com/PiyushSuthar/github-readme-quotes/pull/31) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+3. 🗣 Commented on [#2900](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/2900) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+4. 💪 Opened PR [#30](https://github.com/PiyushSuthar/github-readme-quotes/pull/30) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+5. ❌ Closed PR [#29](https://github.com/PiyushSuthar/github-readme-quotes/pull/29) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
 5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
 <!--END_SECTION:activity-->
 
