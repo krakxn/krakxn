@@ -322,10 +322,10 @@ Sunday       12 commits     ██░░░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3270](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3270) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-2. 🗣 Commented on [#3250](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3250) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-3. 🗣 Commented on [#3204](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3204) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-4. 🗣 Commented on [#2976](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/2976) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-5. 🗣 Commented on [#31](https://github.com/PiyushSuthar/github-readme-quotes/issues/31) in [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+2. 🗣 Commented on [#3270](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3270) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+3. 🗣 Commented on [#3250](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3250) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+4. 🗣 Commented on [#3204](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3204) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+5. 🗣 Commented on [#2976](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/2976) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
 <!--END_SECTION:activity-->
 
