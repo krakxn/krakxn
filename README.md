@@ -321,11 +321,11 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 <br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/zjy-1998/nextjs-smartcontract-lottery-fcc/pull/1) in [zjy-1998/nextjs-smartcontract-lottery-fcc](https://github.com/zjy-1998/nextjs-smartcontract-lottery-fcc)
-2. 💪 Opened PR [#1](https://github.com/zjy-1998/hardhat-smartcontract-raffle-hcc/pull/1) in [zjy-1998/hardhat-smartcontract-raffle-hcc](https://github.com/zjy-1998/hardhat-smartcontract-raffle-hcc)
-3. 🗣 Commented on [#3270](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3270) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-4. 🗣 Commented on [#3270](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3270) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-5. 🗣 Commented on [#3250](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3250) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+1. 🗣 Commented on [#3491](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3491) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+2. 🗣 Commented on [#3491](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3491) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+3. 💪 Opened PR [#1](https://github.com/zjy-1998/nextjs-smartcontract-lottery-fcc/pull/1) in [zjy-1998/nextjs-smartcontract-lottery-fcc](https://github.com/zjy-1998/nextjs-smartcontract-lottery-fcc)
+4. 💪 Opened PR [#1](https://github.com/zjy-1998/hardhat-smartcontract-raffle-hcc/pull/1) in [zjy-1998/hardhat-smartcontract-raffle-hcc](https://github.com/zjy-1998/hardhat-smartcontract-raffle-hcc)
+5. 🗣 Commented on [#3270](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/issues/3270) in [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 5. 💪 Opened PR [#2](https://github.com/TimeKeyRoll/hardhat-nft-fcc/pull/2) in [TimeKeyRoll/hardhat-nft-fcc](https://github.com/TimeKeyRoll/hardhat-nft-fcc)
 <!--END_SECTION:activity-->
 
