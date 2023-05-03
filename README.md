@@ -136,8 +136,6 @@
 [![AN's github activity graph](https://activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
-<!-- Currently selected: 2. -->
-
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=krakxn&bg_color=000502&color=ffffff&line=ffffff&hide_border=true&area=true&area_color=ebe8e8" alt="Activity Graph — Try refreshing" loading="lazy" /></p>
 
 <hr style="width:50%;text-align:left;margin-left:0">
@@ -172,8 +170,6 @@
 
 <h2 align="center">Not-so-corny jokes 🙈</h2>
 
-<h6 align="center">· ah yes, coping</h6>
-
 <!-- Parameters are customized -->
 
 <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&codeColor=%555555&textColor=%0a0100&qColor=%0a0100&aColor=%0a0100" alt="Jokes — Try refreshing" loading="lazy" /></p>
@@ -188,7 +184,7 @@
 
 <h2 align="center">Currently playing 🎶</h2>
 
-<h6 align="center">· generally hh, or classical piano (quite the contrast :c)</h6>
+<h6 align="center">· generally, classical piano</h6>
 
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gon44oozlgu62nit3rf352sbyu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" loading="lazy" alt="Currently playing — Try refreshing" /> </p>
 
@@ -212,13 +208,13 @@
 
 <summary>Naval excerpts 📝</summary>
 
-<h6 align="center">· updated arbitrarily (for quality)</h6>
+<h6 align="center">· updated arbitrarily for quality</h6>
 
 <br>
 <br>
 <br>
 
-<h4 align="center"><ins><q>The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge.</q></ins></h4>
+<h4 align="center"><q>The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge.</q></h4>
 
 <br>
 <br>
@@ -294,6 +290,8 @@ Sunday                   37 commits          █░░░░░░░░░░�
 
 <!-- Snake contribution-grid mini-game -- Animation SVG: -->
 
+<!--
+
 <details>
 
 <summary>Contribution-grid (🐍!)</summary>
@@ -305,7 +303,7 @@ Sunday                   37 commits          █░░░░░░░░░░�
 <p align="center"> <img src="https://github.com/krakxn/krakxn/blob/output/github-contribution-grid-snake.svg" alt="Contribution-grid mini-game — Try refreshing" loading="lazy" /> </p>
 
 </details>
-
+-->
 
 
 
