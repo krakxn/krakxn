@@ -50,19 +50,11 @@
 
 <!-- Subtitle -- Dynamic SVG: -->
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Is...+curious+(always+learning!).+Stoic.+Passionate+(effective-altruism+:3).;Obsessed+with...+space.+Cryptography+(ZK,+Post-quantum).+Applied+game-theory.;Loves...reading.+Listening+to+music+(uh..24/7).+Gaming+(rarely+lately..).&font=Roboto&color=050505&background=ffffff&duration=4000&center=true&vCenter=true&size=30&width=1100&height=75" alt="Subtitle — Try refreshing"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Is...+curious+(always+learning!).+Stoic.+Passionate+(effective-altruism+:D).;Obsessed+with...+space.+Cryptography+(ZK,+Post-quantum).+Applied+game-theory.;Loves...reading.+Playing+music+on+acoustic+and+piano+:)).+Chess!&font=Roboto&color=050505&background=ffffff&duration=4000&center=true&vCenter=true&size=30&width=1100&height=75" alt="Subtitle — Try refreshing"> </p>
 
 
 
 
-
-<!-- Trophies: --> 
-
-<h2 align="center">Trophies ✨</h2>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krakxn&theme=oldie&row=1&margin-w=5" alt="Trophies — Try refreshing" loading="lazy" /></a> </p>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:black">
 
 
 
@@ -84,7 +76,6 @@
 
 <h2 align="center">Statistics 🖥️</h2>
 
-<h4 align="center">Jun 27 - Present</h4>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krakxn&show_icons=true&locale=en&theme=swift&icon_color=050505&hide=stars" alt="Stats — Try refreshing" loading="lazy" /></p>
 
@@ -106,7 +97,7 @@
 
 <h3 align="center">Top languages</h3>
 
-<h6 align="center">· currently erroneous (lack of variance in public repos.)</h6>
+<h6 align="center">· currently erroneous</h6>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krakxn&show_icons=true&locale=en&layout=default&theme=swift&langs_count=6" alt="Top Languages — Try refreshing" loading="lazy" /></p>
 
@@ -120,7 +111,7 @@
 
 <h2 align="center">Contribution graph 📈</h2>
 
-<h3 align="center">Past 31 days</h3>
+<h6 align="center">· currently erroneous</h6>
 
 <!-- <h6 align="center">· uh oh, a rugpull! 📉</h6> -->
 
@@ -184,7 +175,7 @@
 
 <h2 align="center">Currently playing 🎶</h2>
 
-<h6 align="center">· generally, classical piano</h6>
+<h6 align="center">· currently erroneous</h6>
 
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gon44oozlgu62nit3rf352sbyu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" loading="lazy" alt="Currently playing — Try refreshing" /> </p>
 
@@ -206,7 +197,7 @@
 
 <details>
 
-<summary>Naval excerpts 📝</summary>
+<summary>Excerpt of the Day 📝</summary>
 
 <h6 align="center">· updated arbitrarily for quality</h6>
 
