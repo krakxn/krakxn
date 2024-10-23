@@ -328,7 +328,7 @@ Sunday                   29 commits          ██░░░░░░░░░�
 
 <summary>Birbs? 🦜</summary>
 
-<h6 align="center">· sorry.. too cute to be excluded 😬</h6>
+<h6 align="center">· sorry... too cute to be excluded 😬</h6>
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
